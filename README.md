@@ -1,4 +1,4 @@
-# notelist
+# Notelist
 
 A Note List application
 
